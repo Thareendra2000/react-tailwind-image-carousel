@@ -7,6 +7,7 @@ This is a simple image slider which implimented by using react.js and tailwind c
 To clone the repository, use the following command:
 
 HTTPS : `git clone https://github.com/Thareendra2000/react-tailwind-image-carousel.git`
+
 SSH   : `git clone git@github.com:Thareendra2000/react-tailwind-image-carousel.git`
 
 ## Install Dependencies
