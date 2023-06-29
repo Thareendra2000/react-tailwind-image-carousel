@@ -22,3 +22,5 @@ To run the app, use the following command:
 
 The app will start running on http://localhost:3000/
 
+![image](https://github.com/Thareendra2000/react-tailwind-image-carousel/assets/97722096/c9e369fa-07c9-403a-83b4-1a8b1695a563)
+
